@@ -1,1 +1,24 @@
-
+.line {
+  font-family:Helvetia;
+  font-weight:bold;
+  background-color:#40e0d0;
+  text-align:center;
+  margin-top:20px;
+}
+.left {
+  background-color:#48d1cc;
+  height:500px;
+  width:12%;
+  margin-top:15px;
+}
+.right {
+  background-color:#20b2aa;
+  height:500px;
+  width:89%;
+  margin-top:15px;
+}
+  
+  
+  
+  
+  
