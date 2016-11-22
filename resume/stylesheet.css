@@ -10,12 +10,14 @@
   height:500px;
   width:12%;
   margin-top:15px;
+  float:left;
 }
 .right {
   background-color:#20b2aa;
   height:500px;
   width:89%;
   margin-top:15px;
+  float:right;
 }
   
   
