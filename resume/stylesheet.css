@@ -18,14 +18,34 @@
 }
 .right {
   position: relative;
-	float: right;
+	float: center;
 	margin-top: 50px;
 	width: 88%;
 	height: 400px;
 	background-color: #e0ffff;
 	margin-bottom: 10px;
 }
-  
+.right2 {
+	position: relative;
+	float: right;
+	margin-top: 50px;
+	width: 10%;
+	height: 400px;
+	background-color: #20b2aa;
+	margin-bottom: 10px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	font-weight: bold;
+	color: #668b8b;
+}
+span {
+	font-size: 14px;
+	font-weight: bold;
+}
+	
   
   
   
