@@ -10,7 +10,7 @@
   position: relative;
 	float:left;
 	width: 10%;
-	height: 400px;
+	height: 500px;
 	background-color: #20b2aa;
 	margin-bottom: 10px;
   
@@ -19,7 +19,7 @@
   position: relative;
 	float: right;
 	width: 88%;
-	height: 400px;
+	height: 500px;
 	background-color: #e0ffff;
 	margin-bottom: 10px;
 }
@@ -51,6 +51,9 @@ p {
         text-align:center;
         margin-top:20px;
         font-size:60px;
+}
+li {
+	font-family:Arial;
 }
 	
   
