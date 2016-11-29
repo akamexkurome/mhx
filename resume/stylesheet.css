@@ -3,7 +3,7 @@
   font-weight:bold;
   background-color:#afeeee;
   text-align:center;
-  /*margin-top:20px;*/
+  margin-top:20px;
   font-size:60px;
 }
 .left {
@@ -53,7 +53,6 @@ p {
 	position:relative;
 	height: 50px;
 	clear: both;
-	font-size: 14px;
 }
 li {
 	font-family:Arial;
